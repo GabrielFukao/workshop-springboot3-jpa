@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import gabrielfukao.curso.entities.User;
 import gabrielfukao.curso.repositories.UserRepository;
 import gabrielfukao.curso.services.exceptions.DatabaseException;
-import cgabrielfukao.curso.services.exceptions.ResourceNotFoundException;
+import gabrielfukao.curso.services.exceptions.ResourceNotFoundException;
 
 import jakarta.persistence.EntityNotFoundException;
 
