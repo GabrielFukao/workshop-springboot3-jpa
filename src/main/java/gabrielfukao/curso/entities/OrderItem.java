@@ -1,5 +1,6 @@
 package gabrielfukao.curso.entities;
 
+
 import java.io.Serializable;
 
 import gabrielfukao.curso.entities.pk.OrderItemPK;
